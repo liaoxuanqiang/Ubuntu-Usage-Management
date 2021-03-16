@@ -3,7 +3,7 @@
 ###### 1) 备份配置文件：
 
 ```
-**sudo cp -a /etc/apt/sources.list /etc/apt/sources.list.bak**
+sudo cp -a /etc/apt/sources.list /etc/apt/sources.list.bak
 ```
 
 ###### 2) 修改sources.list文件
