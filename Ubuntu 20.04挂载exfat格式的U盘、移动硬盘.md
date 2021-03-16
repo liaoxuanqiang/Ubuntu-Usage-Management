@@ -28,7 +28,7 @@ sudo mkdir user_usb   #创建挂载目录
 sudo mount /dev/sdb1 /mnt/user_usb  #执行挂载sdb1分区到user_usb目录
 ```
 
-### 6)执行你对该文件的操作
+### 6)执行对挂载U盘移动硬盘的读写操作
 
 ### 7)卸载
 
