@@ -1,6 +1,6 @@
 #####  Ubuntu20.04修改系统软件源并更新软件
 
-###### 1) 备份配置文件：
+###### 1) 备份软件源配置文件：
 
 ```
 sudo cp -a /etc/apt/sources.list /etc/apt/sources.list.bak
