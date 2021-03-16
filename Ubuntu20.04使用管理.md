@@ -8,7 +8,7 @@
 
 ###### 2) 修改sources.list文件
 
-将http://archive.ubuntu.com和http://security.ubuntu.com 替换成http://repo.huaweicloud.com，可以参考如下命令： 
+将http://archive.ubuntu.com 和 http://security.ubuntu.com 替换成 http://repo.huaweicloud.com，可以参考如下命令： 
 
 ```
 sudo sed -i "s@http://.\*archive.ubuntu.com@http://repo.huaweicloud.com@g" /etc/apt/sources.list
